@@ -1,0 +1,4 @@
+﻿  kruskal算法.cpp
+f:\c++练习\数据结构\代码\01 动态数组\18 kruskal算法-最小生成树\kruskal算法.cpp(9): warning C4005: “INFINITY”: 宏重定义
+  e:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: 参见“INFINITY”的前一个定义
+  18 kruskal算法-最小生成树.vcxproj -> F:\C++练习\数据结构\代码\01 动态数组\x64\Debug\18 kruskal算法-最小生成树.exe

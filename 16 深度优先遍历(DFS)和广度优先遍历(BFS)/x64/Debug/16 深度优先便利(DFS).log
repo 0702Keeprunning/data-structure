@@ -1,0 +1,7 @@
+﻿E:\Unmanned_ship\VS2017\install\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(16 深度优先便利(DFS).vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  DFS和BFS-邻接矩阵法.cpp
+  DFS和BFS-邻接表法.cpp
+f:\c++练习\数据结构\代码\01 动态数组\16 深度优先遍历(dfs)和广度优先遍历(bfs)\dfs和bfs-邻接表法.cpp(12): warning C4005: “INFINITY”: 宏重定义
+  e:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: 参见“INFINITY”的前一个定义
+  正在生成代码...
+  16 深度优先便利(DFS).vcxproj -> F:\C++练习\数据结构\代码\01 动态数组\x64\Debug\16 深度优先遍历(DFS)和广度优先遍历(BFS).exe
